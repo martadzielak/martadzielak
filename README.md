@@ -1,2 +1,2 @@
 hello!
-see my [portfolio](https://portfolio-marta-dzielak.vercel.app/)
+see my new app, [Peyote](https://peyote.netlify.app/)
